@@ -52,10 +52,10 @@
     reselect "4.0.0"
     zustand "3.5.7"
 
-"@100mslive/hms-video@0.1.45-alpha.2":
-  version "0.1.45-alpha.2"
-  resolved "https://registry.yarnpkg.com/@100mslive/hms-video/-/hms-video-0.1.45-alpha.2.tgz#0b520a98881a034370d87aaf1f4471a0780fe37a"
-  integrity sha512-oB/Oydpr1LPZvQLfF+mZkMzFblDxwFz2eTulAKD5nBd/5U0eT8nVXGr2KqXM+czJ57AqzazAF9d9/3Vetcz8kw==
+"@100mslive/hms-video@0.1.47":
+  version "0.1.47"
+  resolved "https://registry.yarnpkg.com/@100mslive/hms-video/-/hms-video-0.1.47.tgz#32d2db450a42e5096796cfbd1784adb88343767a"
+  integrity sha512-FH532OzIkDZXYr4Enh+wB5MRtG98hP+Q/ey+0bqs5lWjlB67ViYysKGA4M+skJ0cOOEMwRQBe6X51m41b5wM2g==
   dependencies:
     eventemitter2 "^6.4.5"
     sdp-transform "^2.14.1"
@@ -2670,9 +2670,9 @@ ast-types-flow@^0.0.7:
   integrity sha1-9wtzXGvKGlycItmCw+Oef+ujva0=
 
 async@^2.6.2:
-  version "2.6.3"
-  resolved "https://registry.yarnpkg.com/async/-/async-2.6.3.tgz#d72625e2344a3656e3a3ad4fa749fa83299d82ff"
-  integrity sha512-zflvls11DCy+dQWzTW2dzuilv8Z5X/pjfmZOWba6TNIVDm+2UDaJmXSOXlasHKfNBs8oo3M0aT50fDEWfKZjXg==
+  version "2.6.4"
+  resolved "https://registry.yarnpkg.com/async/-/async-2.6.4.tgz#706b7ff6084664cd7eae713f6f965433b5504221"
+  integrity sha512-mzo5dfJYwAn29PeiJ0zvwTo04zj8HDJj0Mn8TD7sno7q12prdbnasKJHhkm2c1LgrhlJ0teaea8860oxi51mGA==
   dependencies:
     lodash "^4.17.14"
 
