@@ -52,10 +52,10 @@
     reselect "4.0.0"
     zustand "3.5.7"
 
-"@100mslive/hms-video@0.1.45-alpha.2":
-  version "0.1.45-alpha.2"
-  resolved "https://registry.yarnpkg.com/@100mslive/hms-video/-/hms-video-0.1.45-alpha.2.tgz#0b520a98881a034370d87aaf1f4471a0780fe37a"
-  integrity sha512-oB/Oydpr1LPZvQLfF+mZkMzFblDxwFz2eTulAKD5nBd/5U0eT8nVXGr2KqXM+czJ57AqzazAF9d9/3Vetcz8kw==
+"@100mslive/hms-video@0.1.47":
+  version "0.1.47"
+  resolved "https://registry.yarnpkg.com/@100mslive/hms-video/-/hms-video-0.1.47.tgz#32d2db450a42e5096796cfbd1784adb88343767a"
+  integrity sha512-FH532OzIkDZXYr4Enh+wB5MRtG98hP+Q/ey+0bqs5lWjlB67ViYysKGA4M+skJ0cOOEMwRQBe6X51m41b5wM2g==
   dependencies:
     eventemitter2 "^6.4.5"
     sdp-transform "^2.14.1"
@@ -5869,9 +5869,9 @@ minimatch@^3.0.4, minimatch@^3.1.2:
     brace-expansion "^1.1.7"
 
 minimist@^1.1.1, minimist@^1.2.0, minimist@^1.2.5:
-  version "1.2.5"
-  resolved "https://registry.yarnpkg.com/minimist/-/minimist-1.2.5.tgz#67d66014b66a6a8aaa0c083c5fd58df4e4e97602"
-  integrity sha512-FM9nNUYrRBAELZQT3xeZQ7fmMOBg6nWNmJKTcgsJeaLstP/UODVpGsr5OhXhhXg6f+qtJ8uiZ+PUxkDWcgIXLw==
+  version "1.2.8"
+  resolved "https://registry.yarnpkg.com/minimist/-/minimist-1.2.8.tgz#c1a464e7693302e082a075cee0c057741ac4772c"
+  integrity sha512-2yyAR8qBkN3YuheJanUpWC5U3bb5osDywNB8RzDVlDwDHbocAJveqqj1u8+SVD7jkWT4yvsHCpWqqWqAxb0zCA==
 
 mkdirp@^0.5.5:
   version "0.5.5"
